@@ -6,8 +6,6 @@
 <style>
 #boxDemo {
   width: 80%;
-  padding:1em;
-  margin: 2em;
   border:1px solid;
   background-color:blanchedalmond;
 }
